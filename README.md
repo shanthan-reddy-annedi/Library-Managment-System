@@ -2,7 +2,7 @@
 INTRO:
 
 This project is about development of REST API's for both Student and Admin. its built using Spring boot With Maven.
-No Authentication or Authorization used in this project. so, in a way EndPoints are open to public.
+No Authentication or Authorization used in this project. so, in a way all the EndPoints are open to public.
 
 FUNCTIONALITIES:
 
