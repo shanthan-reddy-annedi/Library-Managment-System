@@ -6,7 +6,7 @@ No Authentication or Authorization used in this project. so, in a way all the En
 
 FUNCTIONALITIES:
 
-users can add a book to database using an endpoint
+users can add a book to database using an endpoint.
 Users can see books available in database.
 Users can apply filter for book Search.
 users can add a student to database.
