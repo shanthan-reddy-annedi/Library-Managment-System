@@ -17,6 +17,7 @@ public class AdminController {
     AdminService adminService;
 
     @PostMapping("/admin")
+    //this is a Post Request for admin creation
     public void createAdmin(@Valid @RequestBody AdminCreateRequest adminCreateRequest){
         adminService.createAdmin(adminCreateRequest);
     }
